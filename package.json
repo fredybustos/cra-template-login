@@ -1,0 +1,36 @@
+{
+  "name": "cra-template-login",
+  "version": "1.0.0",
+  "description": "template with login and routes with react-router-dom",
+  "main": "template.json",
+  "author": "Fredy bustos <afredybustos@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredybustos/cra-template-login.git",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/fredybustos/cra-template-login/issues"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "login-template",
+    "router"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
