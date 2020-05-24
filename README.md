@@ -2,7 +2,7 @@
 
 The login template for Create React App.
 
-To use this template, add `--template template-login` when creating a new app.
+To use this template, add `--template cra-template-login` when creating a new app.
 
 For example:
 
