@@ -7,11 +7,11 @@ To use this template, add `--template template-login` when creating a new app.
 For example:
 
 ```
-npx create-react-app my-app --template template-login
+npx create-react-app my-app --template cra-template-login
 
 # or
 
-yarn create react-app my-app --template template-login
+yarn create react-app my-app --template cra-template-login
 For more information, please refer to:
 ```
 
